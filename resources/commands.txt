@@ -1,0 +1,20 @@
+# Navigate to your project folder in MSYS2 MinGW64
+cd /c/Users/Inigo/Documents/CS_Projects/my-os
+
+# Build and run the OS in QEMU
+make run
+
+# Clean all build output files
+make clean
+
+# Stop QEMU if it's running in the terminal
+# Press: Ctrl + C
+
+# Kill QEMU manually from another terminal (if needed)
+taskkill /IM qemu-system-arm.exe /F
+
+# Run QEMU manually (optional)
+qemu-system-arm -kernel build/kernel.img -M versatilepb -cpu arm1176 -nographic
+
+# Rebuild from scratch and run
+make clean && make run

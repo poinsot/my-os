@@ -1,0 +1,29 @@
+Baking Pi (Cambridge University)
+https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/
+
+OSDev Wiki
+https://wiki.osdev.org
+
+The Embedded Rust Book
+https://docs.rust-embedded.org/book/
+
+QEMU Documentation
+https://wiki.qemu.org/Documentation
+
+Buildroot
+https://buildroot.org/
+
+Low Level JavaScript OS Dev (YouTube)
+https://www.youtube.com/@LowLevelJavaScript
+
+ARM Developer Docs
+https://developer.arm.com/documentation
+
+GCC ARM Embedded Toolchain
+https://developer.arm.com/downloads/-/arm-gnu-toolchain-downloads
+
+Reddit r/osdev
+https://www.reddit.com/r/osdev/
+
+Stack Overflow (tag: osdev)
+https://stackoverflow.com/questions/tagged/osdev
